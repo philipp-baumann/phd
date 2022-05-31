@@ -10,4 +10,4 @@ This repo contains the condensed outcomes from my PhD phase of life. These are t
 ├── README.md
 ```
 - [Presentation for the defense](https://github.com/philipp-baumann/phd/blob/main/PhD-defense_Philipp-Baumann_2021-11-26.pdf)
-# - [Thesis via ETH research collection](https://www.research-collection.ethz.ch/handle/20.500.11850/549011)
+- [Thesis via ETH research collection](https://www.research-collection.ethz.ch/handle/20.500.11850/549011)
